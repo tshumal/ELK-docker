@@ -37,3 +37,5 @@ This simple configuration will run very happily on your laptop, but it can be ea
 - You can specify resource limits (like CPU and memory allocation) for each docker container
 
 Feel free to contact me with any issues and questions
+
+Filebeat set-up and configuration coming soon
